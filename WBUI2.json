@@ -36,10 +36,10 @@
             {
                 "tab3": {
                     "layout": 2,
-                    "buttontext": "Tips",
+                    "buttontext": "Tipps",
                     "title1": "Tastenkürtzel",
-                    "title2": "Tastenkürtzel",
-                    "text1": "Mit F1 kommt ihr zum Infobereich \n \n mit F10 öffnet ihr den Dinofinder",
+                    "title2": "",
+                    "text1": " Mit F1 kommt ihr zum Infobereich \n \n Mit F10 öffnet ihr den Dinofinder \n\n Es gibt bei uns Tek-Dino, 10% Chance zu finden",
                     "imageurl": "https://imgur.com/ZawXrVg"
                 }
             }
