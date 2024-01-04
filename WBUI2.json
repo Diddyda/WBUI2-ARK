@@ -1,82 +1,58 @@
 {
-  "Phoenix Dino": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": false,
-        "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "Willkommen",
-          "title1": "Regeln!",
-          "text1": "Bauen / Basen Grundsätzlich bitten wir euch, nicht zu überdimensioniert zu bauen. Steckt keine riesigen Gebiete ab bzw. \n setzt die Mauer nur für den Bereich, den ihr wirklich benötigt. Die zurückliegenden Probleme haben uns gezeigt, dass zu große Basen die Serverperformance erheblich beeinflussen und dadurch den Spielfluss stören. Bei zu großen Basen prüfen die Admins den Sachverhalt und entscheiden entsprechend nach Rücksprache mit dem betreffenden Tribe. Die Gebäude (Base, Dinohalle, Wassergehege) innerhalb eines Bereichs bauen.\n BITTE BAUT MIT GENÜGEND ABSTAND ZUM NACHBARN!\n Bitte pro Tribe lediglich eine Base. \n Baut bitte mit genügend Abstand (außer Sichtweite) zum Nachbarn bzw. sprecht euch miteinander ab.\n Pro Tribe sind maximal zehn Gigas, zehn Gatchas und fünf Brontos gestattet.\n Große Metallspots / Perlenspots, die Dungeons, Artefakte sowie die Obelisken dürfen nicht bebaut werden.          \n Für den Fall, dass ihr an einem der Spawnpunkte baut, stellt sicher, dass neu joinende Spieler die Möglichkeit haben, \n eure Base ohne fremde Hilfe zu verlassen, beispielsweise durch das „Entsperren“ eines Tores.\n Solltet ihr zum Zähmen eines Dinos außerhalb eurer Base Strukturen wie Tore, Spikes, etc. zur Hilfe nehmen, baut diese unverzüglich nach dem Zähmvorgang wieder ab. \n Sollte dies wiederholt nicht geschehen, muss damit gerechnet werden, dass sämtliche Strukturen des betreffenden Tribes zerstört werden.",
-          "imageurl": "https://imgur.com/a/eNKVcsJ"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Grundsätzliches",
-          "title1": "Grundsätzliches",
-          "title2": "Starterkit",
-          "text1": "Es ist verboten sich als Admin auszugeben. Wer dies dennoch tut, wird sofort gebannt. Alle Admins haben einen Stern vor dem Namen.\n Das Ausnutzen von Ingame-Bugs (z.B. unter die Map glitchen), auch solche, die durch Mods verursacht werden, und das Modifizieren des Spielclients, um euch einen Vorteil anderen gegenüber zu verschaffen, sind verboten! (Kann bis zu einem dauerhaften Bann führen) \n Genauso möchten wir darauf hinweisen, dass es im Spiel immer wieder passieren kann, dass Bugs auftreten können, oder durch Mods verursacht werden. Das Ausnutzen von Bugs, Exploits, sowie das Ausnutzen ungewollter Spielmechaniken von Mods, kann zum sofortigen Ausschluss von allen Servern führen.\n Werbung im Discord sowie im Ingame-Chat für andere Server ist verboten.\n Auf den Servern sind verschiedene Mods installiert. Es besteht keine Garantie dafür, dass diese Mods dauerhaft auf den Servern bleiben. \n Bei eventueller Inkompatibilität (zum Beispiel durch Updates) können diese möglicherweise nach Ankündigung entfernt werden. \n  auch besteht kein Anspruch auf den kompletten Umfang oder Inhalt einer Mod. \n Wir behalten uns vor, einige Funktionen von Mods aus dem Spiel zu nehmen, nicht zu aktivieren bzw. zu ändern.\n Bei längerer Abwesenheit, zum Beispiel wegen Urlaub, Krankenhausaufenthalt der Spielpause, kontaktiert einen der Admins in Discord, damit bei eurer Rückkehr gewährleistet ist, dass eure Strukturen sowie Dinos noch vorhanden sind.\n Es wird nicht geduldet den Base-Strukturentimer über einen längeren Zeitraum zu resetten. Solltet ihr länger abwesend sein, können wir eure Dinos und einzelne Items einlagern.\n Wir möchten verhindern, dass Spots dauerhaft blockiert werden.\n Sollten wir mitbekommen, dass ein Timer immer wieder zurückgesetzt wird (ohne aktives spielen), entfernen wir die Base.",
-          "text2": "Um euch ein Starter Dino zu bekommen, nutzt ihr bitte das Ticketsystem in Discord",
-          "imageurl": "https://imgur.com/a/eNKVcsJ"
-        }
-      }
-    ],
-    "Links": [
-      {
-        "link1": {
-          "text": "Discordlink zum Kopieren",
-          "url": "https://discord.gg/NWTPMCgTnB "
-        }
-      },
-      {
-        "link2": {
-          "text": "Donate",
-          "url": "https://server.nitrado.net/deu/donations/donate2"
-        }
-      },
-      {
-        "link3": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link4": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link5": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link6": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link7": {
-          "text": "",
-          "url": ""
-        }
-      }
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 30,
+            "IconURL": "https://imgur.com/ZawXrVg",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Willkommen",
+                    "title1": "Regelwerk",
+                    "text1": "Bauen / Basen Grundsätzlich bitten wir euch, nicht zu überdimensioniert zu bauen. Steckt keine riesigen Gebiete ab bzw. \n -setzt die Mauer nur für den Bereich, den ihr wirklich benötigt. Die zurückliegenden Probleme haben uns gezeigt, dass zu große Basen die Serverperformance erheblich beeinflussen und dadurch den Spielfluss stören. Bei zu großen Basen prüfen die Admins den Sachverhalt und entscheiden entsprechend nach Rücksprache mit dem betreffenden Tribe. Die Gebäude (Base, Dinohalle, Wassergehege) innerhalb eines Bereichs bauen.\n \n -BITTE BAUT MIT GENÜGEND ABSTAND ZUM NACHBARN!\n \n -Bitte pro Tribe lediglich eine Base. \n \n -Baut bitte mit genügend Abstand (außer Sichtweite) zum Nachbarn bzw. sprecht euch miteinander ab.\n \n -Pro Tribe sind maximal zehn Gigas, zehn Gatchas und fünf Brontos gestattet.\n \n -Große Metallspots / Perlenspots, die Dungeons, Artefakte sowie die Obelisken dürfen nicht bebaut werden.          \n \n -Für den Fall, dass ihr an einem der Spawnpunkte baut, stellt sicher, dass neu joinende Spieler die Möglichkeit haben, \n eure Base ohne fremde Hilfe zu verlassen, beispielsweise durch das „Entsperren“ eines Tores.\n \n -Solltet ihr zum Zähmen eines Dinos außerhalb eurer Base Strukturen wie Tore, Spikes, etc. zur Hilfe nehmen, baut diese unverzüglich nach dem Zähmvorgang wieder ab. \n \n -Sollte dies wiederholt nicht geschehen, muss damit gerechnet werden, dass sämtliche Strukturen des betreffenden Tribes zerstört werden.",
+                    "imageurl": "https://imgur.com/ZawXrVg"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Grundsätzliches",
+                    "title1": "Grundsätzliches",
+                    "text1": "Es ist verboten sich als Admin auszugeben. Wer dies dennoch tut, wird sofort gebannt. Alle Admins haben einen Stern vor dem Namen.\n \n -Das Ausnutzen von Ingame-Bugs (z.B. unter die Map glitchen), auch solche, die durch Mods verursacht werden, und das Modifizieren des Spielclients, um euch einen Vorteil anderen gegenüber zu verschaffen, sind verboten! (Kann bis zu einem dauerhaften Bann führen) \n \n -Genauso möchten wir darauf hinweisen, dass es im Spiel immer wieder passieren kann, dass Bugs auftreten können, oder durch Mods verursacht werden. Das Ausnutzen von Bugs, Exploits, sowie das Ausnutzen ungewollter Spielmechaniken von Mods, kann zum sofortigen Ausschluss von allen Servern führen.\n \n -Werbung im Discord sowie im Ingame-Chat für andere Server ist verboten.\n \n -Auf den Servern sind verschiedene Mods installiert. Es besteht keine Garantie dafür, dass diese Mods dauerhaft auf den Servern bleiben. \n \n -Bei eventueller Inkompatibilität (zum Beispiel durch Updates) können diese möglicherweise nach Ankündigung entfernt werden. \n \n -auch besteht kein Anspruch auf den kompletten Umfang oder Inhalt einer Mod. \n \n -Wir behalten uns vor, einige Funktionen von Mods aus dem Spiel zu nehmen, nicht zu aktivieren bzw. zu ändern.\n \n -Bei längerer Abwesenheit, zum Beispiel wegen Urlaub, Krankenhausaufenthalt der Spielpause, kontaktiert einen der Admins in Discord, damit bei eurer Rückkehr gewährleistet ist, dass eure Strukturen sowie Dinos noch vorhanden sind.\n \n -Es wird nicht geduldet den Base-Strukturentimer über einen längeren Zeitraum zu resetten. Solltet ihr länger abwesend sein, können wir eure Dinos und einzelne Items einlagern.\n \n -Wir möchten verhindern, dass Spots dauerhaft blockiert werden.\n \n -Sollten wir mitbekommen, dass ein Timer immer wieder zurückgesetzt wird (ohne aktives spielen), entfernen wir die Base.",
+                    "text2": "Um euch ein Starter Dino zu holen, nutzt ihr bitte das Ticketsystem in Discord",
+                    "imageurl": "https://imgur.com/ZawXrVg"
+                    }
+            },
+            {
+                "tab3": {
+                    "layout": 3,
+                    "buttontext": "Tipps",
+                    "title1": "Tastenkürtzel",
+                    "text1": " Mit F1 kommt ihr zum Infobereich \n \n Mit F10 öffnet ihr den Dinofinder \n\n Es gibt bei uns Tek-Dino, 10% Chance zu finden",
+                    "imageurl": "https://imgur.com/ZawXrVg"
+        ],
+        "Links": [
+            {
+                "link1": {
+                    "text": "Discord Join",
+                    "url": "https://discord.gg/NWTPMCgTnB "
+                }
+            },
+            {
+                "link2": {
+                    "text": "Donate",
+                    "url": "https://server.nitrado.net/deu/donations/donate2"
+                }
+            }
+        ]
+    }
 }
