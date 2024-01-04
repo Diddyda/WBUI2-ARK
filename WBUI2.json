@@ -14,7 +14,7 @@
       },
     "tabs": [
       {
-        "tab": {
+        "tab1": {
           "layout": 1,
           "buttontext": "Willkommen",
           "title1": "Regeln!",
@@ -47,34 +47,6 @@
           "url": "https://server.nitrado.net/deu/donations/donate2"
         }
       },
-      {
-        "link3": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link4": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link5": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link6": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link7": {
-          "text": "",
-          "url": ""
         }
       }
     ]
