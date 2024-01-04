@@ -14,7 +14,7 @@
       },
     "tabs": [
       {
-        "tab1": {
+        "tab": {
           "layout": 1,
           "buttontext": "Willkommen",
           "title1": "Regeln!",
