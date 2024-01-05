@@ -60,7 +60,13 @@
             {
                 "link3": {
                     "text": "Ticket für Starter-Dino",
-                    "url": "https://discord.com/channels/1170378533261021194/1189398434340405299"                    
+                    "url": "https://discord.com/channels/1170378533261021194/1189398434340405299" 
+                }
+            },
+            {
+                "link4": {
+                    "text": "Server-Vote DANKE",
+                    "url": "https://ark-servers.net/server/357806/vote/"                      
                     
                 }
             }
