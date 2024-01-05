@@ -17,8 +17,8 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Willkommen",
-                    "title1": "Regelwerk!",
-                    "text1": "Bauen / Basen Grundsätzlich bitten wir euch, nicht zu überdimensioniert zu bauen. Steckt keine riesigen Gebiete ab bzw. \n -setzt die Mauer nur für den Bereich, den ihr wirklich benötigt. Die zurückliegenden Probleme haben uns gezeigt, dass zu große Basen die Serverperformance erheblich beeinflussen und dadurch den Spielfluss stören. Bei zu großen Basen prüfen die Admins den Sachverhalt und entscheiden entsprechend nach Rücksprache mit dem betreffenden Tribe. Die Gebäude (Base, Dinohalle, Wassergehege) innerhalb eines Bereichs bauen.\n \n -BITTE BAUT MIT GENÜGEND ABSTAND ZUM NACHBARN!\n \n -Bitte pro Tribe lediglich eine Base. \n \n -Baut bitte mit genügend Abstand (außer Sichtweite) zum Nachbarn bzw. sprecht euch miteinander ab.\n \n -Pro Tribe sind maximal zehn Gigas, zehn Gatchas und fünf Brontos gestattet.\n \n -Große Metallspots / Perlenspots, die Dungeons, Artefakte sowie die Obelisken dürfen nicht bebaut werden.          \n \n -Für den Fall, dass ihr an einem der Spawnpunkte baut, stellt sicher, dass neu joinende Spieler die Möglichkeit haben, \n \n -eure Base ohne fremde Hilfe zu verlassen, beispielsweise durch das „Entsperren“ eines Tores.\n \n -Solltet ihr zum Zähmen eines Dinos außerhalb eurer Base Strukturen wie Tore, Spikes, etc. zur Hilfe nehmen, baut diese unverzüglich nach dem Zähmvorgang wieder ab. \n \n -Sollte dies wiederholt nicht geschehen, muss damit gerechnet werden, dass sämtliche Strukturen des betreffenden Tribes zerstört werden.",
+                    "title1": "Bauen / Basen",
+                    "text1": "Grundsätzlich bitten wir euch, nicht zu überdimensioniert zu bauen. Steckt keine riesigen Gebiete ab bzw. \n -setzt die Mauer nur für den Bereich, den ihr wirklich benötigt. Die zurückliegenden Probleme haben uns gezeigt, dass zu große Basen die Serverperformance erheblich beeinflussen und dadurch den Spielfluss stören. Bei zu großen Basen prüfen die Admins den Sachverhalt und entscheiden entsprechend nach Rücksprache mit dem betreffenden Tribe. Die Gebäude (Base, Dinohalle, Wassergehege) innerhalb eines Bereichs bauen.\n \n -BITTE BAUT MIT GENÜGEND ABSTAND ZUM NACHBARN!\n \n -Bitte pro Tribe lediglich eine Base. \n \n -Baut bitte mit genügend Abstand (außer Sichtweite) zum Nachbarn bzw. sprecht euch miteinander ab.\n \n -Pro Tribe sind maximal zehn Gigas, zehn Gatchas und fünf Brontos gestattet.\n \n -Große Metallspots / Perlenspots, die Dungeons, Artefakte sowie die Obelisken dürfen nicht bebaut werden.          \n \n -Für den Fall, dass ihr an einem der Spawnpunkte baut, stellt sicher, dass neu joinende Spieler die Möglichkeit haben, \n \n -eure Base ohne fremde Hilfe zu verlassen, beispielsweise durch das „Entsperren“ eines Tores.\n \n -Solltet ihr zum Zähmen eines Dinos außerhalb eurer Base Strukturen wie Tore, Spikes, etc. zur Hilfe nehmen, baut diese unverzüglich nach dem Zähmvorgang wieder ab. \n \n -Sollte dies wiederholt nicht geschehen, muss damit gerechnet werden, dass sämtliche Strukturen des betreffenden Tribes zerstört werden.",
                     "imageurl": "https://imgur.com/a/eNKVcsJ"
                 }
             },
@@ -38,7 +38,7 @@
                     "layout": 1,
                     "buttontext": "Tipps",
                     "title1": "Tastenkürtzel",
-                    "text1": "Demnächst",
+                    "text1": "\n-Um die Regeln auf zu rufen drückt ihr auf der Tastatur F1 \n\n-Um auf den Dinofinder zu kommen drückt ihr auf der Tastatur F10 \n\n-Um alle Engramme freischalten zu können stellt ihr eine UNLOCK ENGRAMM POTION her \n\n-Es gibt ein SPY GLASS womit ihr die Dino Analysieren könnt \n\nIm Discord werden auch GIVEAWAYs erstellt",
                     "imageur1": "https://imgur.com/a/eNKVcsJ"                   
                     
                 }
@@ -53,7 +53,7 @@
             },
             {
                 "link2": {
-                    "text": "Donate",
+                    "text": "Donate !FREIWILLIG!",
                     "url": "https://server.nitrado.net/deu/donations/donate2"
                 }
             },
